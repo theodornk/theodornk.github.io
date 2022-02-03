@@ -64634,7 +64634,7 @@ a2.V(a).toString
 s=["Registrer deg som ny bruker via innloggingsvinduet","Du trenger telefonen din n\xe5r du logger inn. Sms med innlogginskode sendes etter registrering og ved inlogging.","Velg \xf8nsket type medlemskap og betal for dette via sikker betalingsportal p\xe5 nettsiden.","Treningsstrikk og brukermanual sendes til din oppgitte postadresse n\xe5r betalingen er registrert.","Vi bruker Zoom som vert for videotimene v\xe5re. Last ned Zoom her: ","Dette trenger du kun gj\xf8re en gang, og det er ikke n\xf8dvendig \xe5 opprette en Zoom bruker","Delta p\xe5 timer fra du har betalt og gjerne f\xf8r oppstartspakken er mottatt (emoji)","Medlemskapet ditt fornyes automatisk dersom ikke annet er avtalt."]
 a=new A.abF(c,new A.abf(c,a2),new A.abJ(a0),new A.abl(c,a2),new A.abK(c),new A.abH(c))
 r=new A.abM(a0,a)
-q=a0>450?A.d5(B.aC,A.cB("/images/iSteady.png",B.bI,B.hW,b,b)):A.x(b,b,b,b,b,b,b,b,b)
+q=a0>450?A.d5(B.aC,A.cB("images/iSteady.png",B.bI,B.hW,b,b)):A.x(b,b,b,b,b,b,b,b,b)
 q=A.di(!1,!0,q,b,!0,b,b,b,b,b,b,b,b,b,new A.abz(a2),b,b,b)
 p=a0>900?new A.n(B.iU,r.$0(),b):A.x(b,b,b,b,b,b,b,b,b)
 o=t.t
@@ -64644,7 +64644,7 @@ q=A.bD(new A.n(B.iE,A.be(A.c([A.e6(B.jb,B.f,b),new A.n(B.aL,A.q("Logg inn",b,b,b
 r=a0<900?new A.n(B.f7,r.$0(),b):A.x(b,b,b,b,b,b,b,b,b)
 p=A.akv(A.c([new A.n(B.Ao,q,b),r],o),B.f,p,120)
 r=B.H.h(0,200)
-a=A.al(A.c([A.be(A.c([A.pO(new A.n(B.iV,A.x(b,b,B.Y,b,b,3,b,b,b),b),1),A.cB("/images/isteady.png",B.bI,b,b,b),A.pO(new A.n(B.iV,A.x(b,b,B.Y,b,b,3,b,b,b),b),1)],o),B.j,B.c9,B.i),new A.n(B.a2,A.be(A.c([A.al(A.c([A.j9(A.q("Om oss",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abB(a),b),A.j9(A.q("Terms & conditions",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abC(),b),A.j9(A.q("Privacy policy",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abD(),b)],o),B.j,B.l,B.i),A.x(b,b,b,b,b,b,b,b,100),A.al(A.c([A.q("Kontakt oss:",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,B.m,b,b,!0,b,b,b,b,b,b,b,b),b,b),A.q("kundeservice@isteady.no",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),A.q("+47 99 88 77 66",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b)],o),B.j,B.l,B.i)],o),B.j,B.c9,B.i),b),new A.n(B.aE,A.q("Copyright \xa92022, All Rights Reserved",b,b,b,A.C(b,b,new A.v(4279642697),b,b,b,b,b,b,b,b,12,b,B.j3,b,b,!0,b,b,b,b,b,b,b,b),b,b),b)],o),B.j,B.fK,B.i)
+a=A.al(A.c([A.be(A.c([A.pO(new A.n(B.iV,A.x(b,b,B.Y,b,b,3,b,b,b),b),1),A.cB("images/isteady.png",B.bI,b,b,b),A.pO(new A.n(B.iV,A.x(b,b,B.Y,b,b,3,b,b,b),b),1)],o),B.j,B.c9,B.i),new A.n(B.a2,A.be(A.c([A.al(A.c([A.j9(A.q("Om oss",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abB(a),b),A.j9(A.q("Terms & conditions",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abC(),b),A.j9(A.q("Privacy policy",b,b,b,A.C(b,b,B.q,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),new A.abD(),b)],o),B.j,B.l,B.i),A.x(b,b,b,b,b,b,b,b,100),A.al(A.c([A.q("Kontakt oss:",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,B.m,b,b,!0,b,b,b,b,b,b,b,b),b,b),A.q("kundeservice@isteady.no",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),A.q("+47 99 88 77 66",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b)],o),B.j,B.l,B.i)],o),B.j,B.c9,B.i),b),new A.n(B.aE,A.q("Copyright \xa92022, All Rights Reserved",b,b,b,A.C(b,b,new A.v(4279642697),b,b,b,b,b,b,b,b,12,b,B.j3,b,b,!0,b,b,b,b,b,b,b,b),b,b),b)],o),B.j,B.fK,B.i)
 q=c.ch?A.x(b,b,b,b,b,b,b,b,b):A.x(b,new A.L8(c.d,b),b,b,b,400,b,b,b)
 n=A.x(b,b,b,new A.aq(0,3000,0,1/0),b,b,b,b,b)
 m=a0>430?B.Aj:new A.J(0,0,0,0)
@@ -64653,7 +64653,7 @@ k=A.bH(5)
 j=B.e.bj(127.5)
 i=t.Sx
 h=A.c([new A.dP(5,B.aZ,A.ax(j,158,158,158),new A.r(0,3),7)],i)
-h=A.x(b,new A.n(B.cL,A.al(A.c([A.cB("/images/7.jpg",B.a3,b,b,b),new A.n(B.ar,A.q("iSteady er et online treningstilbud tilpasset deg som senior. V\xe5rt m\xe5l er bedring/vedlikehold av din helse slik at du fungerer best mulig i dagliglivet. \n \nDu kan trene hvor som helst der du har internettilgang og nettbrett/pc med kamera. Treningstimene er live og interaktive. Ingen forkunnskaper eller treningserfaring er n\xf8dvendig.",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),b)],o),B.j,B.l,B.i),b),b,b,new A.bj(B.f,b,b,k,h,b,B.C),b,b,b,300)
+h=A.x(b,new A.n(B.cL,A.al(A.c([A.cB("images/7.jpg",B.a3,b,b,b),new A.n(B.ar,A.q("iSteady er et online treningstilbud tilpasset deg som senior. V\xe5rt m\xe5l er bedring/vedlikehold av din helse slik at du fungerer best mulig i dagliglivet. \n \nDu kan trene hvor som helst der du har internettilgang og nettbrett/pc med kamera. Treningstimene er live og interaktive. Ingen forkunnskaper eller treningserfaring er n\xf8dvendig.",b,b,b,A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b),b)],o),B.j,B.l,B.i),b),b,b,new A.bj(B.f,b,b,k,h,b,B.C),b,b,b,300)
 k=A.bH(5)
 g=A.c([new A.dP(5,B.aZ,A.ax(j,158,158,158),new A.r(0,3),7)],i)
 f=A.C(b,b,b,b,b,b,b,b,b,b,b,18,b,b,b,b,!0,b,b,b,b,b,b,b,b)
@@ -64673,7 +64673,7 @@ $1(a){var s=this.a
 s.R(new A.abT(s))},
 $S:431}
 A.abT.prototype={
-$0(){this.a.d=A.asc("bLOtZDTm4H8",new A.L9(!0))},
+$0(){this.a.d=A.asc("2Gg6Seob5Mg",new A.L9(!0))},
 $S:1}
 A.abf.prototype={
 $2(a,b){var s=0,r=A.T(t.P),q=this,p
@@ -64722,7 +64722,7 @@ A.abx.prototype={
 $1(a){return new A.hb(new A.abw(this.a,!0),null)},
 $S:44}
 A.abw.prototype={
-$2(a,a0){var s,r,q,p,o=null,n=4293783280,m=4294440951,l="/images/4.jpg",k="Sterke skuldre 20",j="Varighet: 20 min",i="Vis mindre",h="/images/5.jpg",g="Sterke kn\xe6r 20",f=A.GB(6,6),e=A.q("Gruppetimer og niv\xe5",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,30,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),d=A.dx(new A.v(n),1),c=A.jA(new A.aH(8,8)),b=t.t
+$2(a,a0){var s,r,q,p,o=null,n=4293783280,m=4294440951,l="images/4.jpg",k="Sterke skuldre 20",j="Varighet: 20 min",i="Vis mindre",h="images/5.jpg",g="Sterke kn\xe6r 20",f=A.GB(6,6),e=A.q("Gruppetimer og niv\xe5",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,30,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),d=A.dx(new A.v(n),1),c=A.jA(new A.aH(8,8)),b=t.t
 c=A.x(o,A.x(o,A.t3(A.c([A.al(A.c([A.x(o,A.d5(new A.bG(new A.aH(8,8),new A.aH(0,0),B.v,B.v),A.cB("images/9.jpg",B.a3,o,o,o)),o,o,o,o,o,o,300),new A.n(B.X,A.q("St\xf8dighet, puls og styrke",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),new A.n(new A.J(8,0,0,0),A.q("Varighet: 45min",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,18,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.G,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.u,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,20),A.q(u.k,o,o,o,o,o,o),o),o,o,o,o,o,o,300)],b),B.U,B.l,B.i),A.x(o,new A.n(B.iP,A.al(A.c([new A.n(B.bb,new A.e2(B.aY,o,o,A.q("Niv\xe5 1",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.x,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 2",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.N,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 3",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.g,o,o,o,o,o,o)],b),B.j,B.l,B.i),o),o,new A.aq(0,250,0,1/0),o,o,o,o,o)],b)),o,o,o,o,o,o,600),o,o,new A.bj(new A.v(m),o,d,c,o,o,B.C),o,o,o,o)
 d=A.x(o,o,o,o,o,o,o,o,o)
 d=A.al(A.c([A.p2(B.bo,B.c2,new A.n(B.iW,c,o),d)],b),B.j,B.l,B.i)
@@ -64779,9 +64779,9 @@ n=A.x(o,A.yr(o,o,B.aW,!0,o,A.dp(A.c([A.dp(o,A.C(o,o,o,o,o,o,o,o,o,o,o,o,o,B.m,o,
 s=t.t
 r=A.al(A.c([A.q("Hvordan komme i gang?",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,20,o,B.m,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.n(B.bb,A.x(o,A.q(u.v,o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,15,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o,o,o,o,o,o,250),o)],s),B.U,B.l,B.i)
 q=this.a>730
-r=A.be(A.c([r,q?A.d5(A.bH(5),A.cB("/images/7.jpg",B.a3,o,o,200)):A.x(o,o,o,o,o,o,o,o,o)],s),B.j,B.l,B.i)
+r=A.be(A.c([r,q?A.d5(A.bH(5),A.cB("images/7.jpg",B.a3,o,o,200)):A.x(o,o,o,o,o,o,o,o,o)],s),B.j,B.l,B.i)
 p=A.al(A.c([new A.n(B.Ak,A.x(o,A.q(u.F,o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,15,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o,o,o,o,o,o,250),o)],s),B.j,B.l,B.i)
-return A.al(A.c([n,new A.n(B.ar,r,o),new A.n(B.ar,A.be(A.c([p,q?A.d5(A.bH(5),A.cB("/images/iSteady.png",B.bI,o,o,o)):A.x(o,o,o,o,o,o,o,o,o)],s),B.j,B.l,B.i),o)],s),B.U,B.l,B.i)},
+return A.al(A.c([n,new A.n(B.ar,r,o),new A.n(B.ar,A.be(A.c([p,q?A.d5(A.bH(5),A.cB("images/iSteady.png",B.bI,o,o,o)):A.x(o,o,o,o,o,o,o,o,o)],s),B.j,B.l,B.i),o)],s),B.U,B.l,B.i)},
 $S:39}
 A.abK.prototype={
 $0(){var s=null,r=t.t
@@ -65068,8 +65068,8 @@ A.ack.prototype={
 $1(a){return new A.hb(new A.acj(this.a,!0),null)},
 $S:44}
 A.acj.prototype={
-$2(a,a0){var s,r,q,p,o=null,n=4293783280,m=4294440951,l="/images/4.jpg",k="Sterke skuldre 20",j="Varighet: 20 min",i="Vis mindre",h="/images/5.jpg",g="Sterke kn\xe6r 20",f=A.GB(6,6),e=A.q("Gruppetimer og niv\xe5",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,30,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),d=A.dx(new A.v(n),1),c=A.jA(new A.aH(8,8)),b=t.t
-c=A.x(o,A.x(o,A.t3(A.c([A.al(A.c([A.x(o,A.d5(new A.bG(new A.aH(8,8),new A.aH(0,0),B.v,B.v),A.cB("/images/9.jpg",B.a3,o,o,o)),o,o,o,o,o,o,300),new A.n(B.X,A.q("St\xf8dighet, puls og styrke",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),new A.n(new A.J(8,0,0,0),A.q("Varighet: 45min",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,18,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.G,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.u,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,20),A.q(u.k,o,o,o,o,o,o),o),o,o,o,o,o,o,300)],b),B.U,B.l,B.i),A.x(o,new A.n(B.iP,A.al(A.c([new A.n(B.bb,new A.e2(B.aY,o,o,A.q("Niv\xe5 1",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.x,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 2",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.N,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 3",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.g,o,o,o,o,o,o)],b),B.j,B.l,B.i),o),o,new A.aq(0,250,0,1/0),o,o,o,o,o)],b)),o,o,o,o,o,o,600),o,o,new A.bj(new A.v(m),o,d,c,o,o,B.C),o,o,o,o)
+$2(a,a0){var s,r,q,p,o=null,n=4293783280,m=4294440951,l="images/4.jpg",k="Sterke skuldre 20",j="Varighet: 20 min",i="Vis mindre",h="images/5.jpg",g="Sterke kn\xe6r 20",f=A.GB(6,6),e=A.q("Gruppetimer og niv\xe5",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,30,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),d=A.dx(new A.v(n),1),c=A.jA(new A.aH(8,8)),b=t.t
+c=A.x(o,A.x(o,A.t3(A.c([A.al(A.c([A.x(o,A.d5(new A.bG(new A.aH(8,8),new A.aH(0,0),B.v,B.v),A.cB("images/9.jpg",B.a3,o,o,o)),o,o,o,o,o,o,300),new A.n(B.X,A.q("St\xf8dighet, puls og styrke",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),new A.n(new A.J(8,0,0,0),A.q("Varighet: 45min",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,18,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.G,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,0),A.q(u.u,o,o,o,o,o,o),o),o,o,o,o,o,o,300),A.x(o,new A.n(new A.J(8,25,0,20),A.q(u.k,o,o,o,o,o,o),o),o,o,o,o,o,o,300)],b),B.U,B.l,B.i),A.x(o,new A.n(B.iP,A.al(A.c([new A.n(B.bb,new A.e2(B.aY,o,o,A.q("Niv\xe5 1",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.x,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 2",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.N,o,o,o,o,o,o),new A.n(B.ar,new A.e2(B.aY,o,o,A.q("Niv\xe5 3",o,o,o,A.C(o,o,o,o,o,o,o,o,o,o,o,24,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o),o),new A.n(B.bF,A.x(o,o,B.Y,o,o,2,o,o,o),o),A.q(u.g,o,o,o,o,o,o)],b),B.j,B.l,B.i),o),o,new A.aq(0,250,0,1/0),o,o,o,o,o)],b)),o,o,o,o,o,o,600),o,o,new A.bj(new A.v(m),o,d,c,o,o,B.C),o,o,o,o)
 d=A.x(o,o,o,o,o,o,o,o,o)
 d=A.al(A.c([A.p2(B.bo,B.c2,new A.n(B.iW,c,o),d)],b),B.j,B.l,B.i)
 c=A.dx(new A.v(n),1)
@@ -65207,13 +65207,13 @@ s.fx=A.f9(q.bl(0,"count"),r)
 s.db=J.bv(A.f9(q.bl(0,"cNumber"),r))},
 $S:1}
 A.acZ.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="/images/iSteady.png",g={}
+$1(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="images/iSteady.png",g={}
 if(a===1){g=A.C(i,i,B.q,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)
 g=A.x(i,A.yr(i,i,B.aW,!0,i,A.dp(A.c([A.dp(i,A.C(i,i,i,i,i,i,i,i,i,i,i,17,i,B.m,i,i,!0,i,i,i,i,i,i,i,i),"iSteady "),A.dp(i,i,u.O)],t.hv),g,i),B.a_,i,i,1,B.ap),i,i,i,i,i,i,325)
 s=t.t
 r=A.al(A.c([new A.n(B.aD,A.x(i,A.q(u.v,i,i,i,A.C(i,i,i,i,i,i,i,i,i,i,i,15,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,250),i),new A.n(B.aD,A.x(i,A.q(u.F,i,i,i,A.C(i,i,i,i,i,i,i,i,i,i,i,15,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,i,i,i,i,i,250),i)],s),B.j,B.l,B.i)
 q=this.b>730
-p=q?new A.n(B.AC,A.d5(A.bH(5),A.cB("/images/8.jpg",B.a3,i,i,200)),i):A.x(i,i,i,i,i,i,i,i,i)
+p=q?new A.n(B.AC,A.d5(A.bH(5),A.cB("images/8.jpg",B.a3,i,i,200)),i):A.x(i,i,i,i,i,i,i,i,i)
 return A.x(i,A.al(A.c([g,new A.n(B.a2,A.t3(A.c([r,A.al(A.c([p,q?new A.n(B.iQ,A.d5(A.bH(5),A.cB(h,B.bI,i,i,i)),i):A.x(i,i,i,i,i,i,i,i,i)],s),B.j,B.l,B.i)],s)),i)],s),B.U,B.l,B.i),i,i,i,i,i,i,i)}else if(a===3){g.a=!1
 g.b=""
 s=this.a
@@ -65429,9 +65429,9 @@ b.a=A.ay(a0,!0,a0.$ti.i("o.E"))}a0=new A.adY(b)
 s=new A.adZ(b,a)
 if(j.c>730){r=A.q(a2,i,i,i,A.C(i,i,i,i,i,i,i,i,i,i,i,20,B.K,B.m,i,i,!0,i,i,i,i,i,i,i,i),i,i)
 q=A.bH(5)
-if(a2===h)p="/images/9.jpg"
-else if(a2==="Sterke kn\xe6r")p="/images/5.jpg"
-else p=a2==="Sterke skuldre"?"/images/4.jpg":"/images/2.jpg"
+if(a2===h)p="images/9.jpg"
+else if(a2==="Sterke kn\xe6r")p="images/5.jpg"
+else p=a2==="Sterke skuldre"?"images/4.jpg":"images/2.jpg"
 p=A.d5(q,A.cB(p,B.a3,i,i,200))
 q=p
 p=t.t
@@ -65862,106 +65862,106 @@ $0(){this.b.$2(this.c,!0)
 this.a.ag=!0},
 $S:1}
 A.adp.prototype={
-$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="St\xf8dighet, puls og styrke",d="/images/9.jpg",c="Sterke kn\xe6r",b="/images/5.jpg",a="Sterke skuldre",a0="/images/4.jpg",a1="/images/2.jpg",a2={},a3=g.a,a4=a3.b6,a5=a4.gat(a4).jL(0,new A.adw(a3),new A.adx())
-a4=a3.k1
-s=A.mv(a4,"Tapped","")
-r=a2.a=a2.b=g.b
+$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="St\xf8dighet, puls og styrke",d="images/9.jpg",c="Sterke kn\xe6r",b="Sterke skuldre",a={},a0=g.a,a1=a0.b6,a2=a1.gat(a1).jL(0,new A.adw(a0),new A.adx())
+a1=a0.k1
+s=A.mv(a1,"Tapped","")
+r=a.a=a.b=g.b
 if(r==null){A.b2("chuckoso")
 q=r
-a4=q}else{A.b2("checkechek")
-a4=J.c1(r)
-q=a4.fK(r,new A.ady(s))
-q=a2.a=A.ay(q,!0,q.$ti.i("o.E"))
-a4=a4.fK(r,new A.adz(a3,s))
-r=a2.b=A.ay(a4,!0,a4.$ti.i("o.E"))
+a1=q}else{A.b2("checkechek")
+a1=J.c1(r)
+q=a1.fK(r,new A.ady(s))
+q=a.a=A.ay(q,!0,q.$ti.i("o.E"))
+a1=a1.fK(r,new A.adz(a0,s))
+r=a.b=A.ay(a1,!0,a1.$ti.i("o.E"))
 A.b2(r.length)
-a4=r}if(a5==null){a3.O=!1
-a3.b4=""
-return A.d_(A.q("Ingen dag valgt",f,f,f,f,f,f),f,f)}else{p=J.an(a4)
-if(p.gb7(a4))o=!a3.ag
+a1=r}if(a2==null){a0.O=!1
+a0.b4=""
+return A.d_(A.q("Ingen dag valgt",f,f,f,f,f,f),f,f)}else{p=J.an(a1)
+if(p.gb7(a1))o=!a0.ag
 else o=!1
 if(o){A.b2("nisse")
-a3.b4=""
-if(J.b6(a4)===2&&!a3.O){a3.a1=!0
-a4=A.eq(f,50,f)
+a0.b4=""
+if(J.b6(a1)===2&&!a0.O){a0.a1=!0
+a1=A.eq(f,50,f)
 p=g.c
 o=p>730?B.am:B.a4
-return A.d_(A.al(A.c([a4,A.pO(new A.n(B.iS,A.a_B(new A.adA(a2,a3,p),J.b6(q),o),f),1)],t.t),B.j,B.ay,B.i),f,f)}else if(!a3.a1&&!a3.ag){A.b2("nisse2")
+return A.d_(A.al(A.c([a1,A.pO(new A.n(B.iS,A.a_B(new A.adA(a,a0,p),J.b6(q),o),f),1)],t.t),B.j,B.ay,B.i),f,f)}else if(!a0.a1&&!a0.ag){A.b2("nisse2")
 q=A.eq(f,20,f)
 o=g.c>730
-if(o){p=J.an(a4)
-p=a3.U?J.bU(p.h(a4,1)):J.akk(J.bU(p.h(a4,0)),"\\n","\n")
+if(o){p=J.an(a1)
+p=a0.U?J.bU(p.h(a1,1)):J.akk(J.bU(p.h(a1,0)),"\\n","\n")
 p=A.q(p,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,20,f,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f)
 n=A.eq(f,0,20)
 m=A.dx(B.q,1)
 l=A.bH(10)
 k=B.os.h(0,100)
-j=J.an(a4)
-j=a3.U?J.Td(j.h(a4,1)):J.Td(j.h(a4,0))
+j=J.an(a1)
+j=a0.U?J.Td(j.h(a1,1)):J.Td(j.h(a1,0))
 l=A.x(f,new A.n(B.X,A.q(j,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),f),f,f,new A.bj(k,f,m,l,f,f,B.C),f,f,f,f)
 m=A.eq(f,f,5)
 k=A.dx(B.q,1)
 j=A.bH(10)
-i=J.an(a4)
-a4=a3.U?J.dM(i.h(a4,1)):J.dM(i.h(a4,0))
+i=J.an(a1)
+a1=a0.U?J.dM(i.h(a1,1)):J.dM(i.h(a1,0))
 i=t.t
-i=A.be(A.c([new A.n(B.f9,p,f),n,A.be(A.c([l,m,new A.n(B.iD,A.x(f,new A.n(B.X,A.q(a4,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),f),f,f,new A.bj(B.f,f,k,j,f,f,B.C),f,f,f,f),f)],i),B.j,B.l,B.i)],i),B.j,B.bh,B.i)
-a4=i}else{n=J.an(a4)
-n=a3.U?J.bU(n.h(a4,1)):J.bU(n.h(a4,0))
+i=A.be(A.c([new A.n(B.f9,p,f),n,A.be(A.c([l,m,new A.n(B.iD,A.x(f,new A.n(B.X,A.q(a1,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),f),f,f,new A.bj(B.f,f,k,j,f,f,B.C),f,f,f,f),f)],i),B.j,B.l,B.i)],i),B.j,B.bh,B.i)
+a1=i}else{n=J.an(a1)
+n=a0.U?J.bU(n.h(a1,1)):J.bU(n.h(a1,0))
 n=A.q(n,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,20,f,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f)
 m=A.eq(f,10,0)
 l=A.dx(B.q,1)
 k=A.bH(10)
 j=B.os.h(0,100)
-i=J.an(a4)
-i=a3.U?J.Td(i.h(a4,1)):J.Td(i.h(a4,0))
+i=J.an(a1)
+i=a0.U?J.Td(i.h(a1,1)):J.Td(i.h(a1,0))
 k=A.x(f,new A.n(B.X,A.q(i,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),f),f,f,new A.bj(j,f,l,k,f,f,B.C),f,f,f,f)
 l=A.eq(f,f,15)
 j=A.dx(B.q,1)
 i=A.bH(10)
-h=J.an(a4)
-h=a3.U?J.dM(h.h(a4,1)):J.dM(h.h(a4,0))
+h=J.an(a1)
+h=a0.U?J.dM(h.h(a1,1)):J.dM(h.h(a1,0))
 i=A.x(f,new A.n(B.X,A.q(h,f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),f),f,f,new A.bj(B.f,f,j,i,f,f,B.C),f,f,f,f)
-a4=p.gb7(a4)
-a4=a4?new A.adB(a2,a3,g.d):new A.adC()
-p=A.cC(f,f,f,f,f,f,f,f,f,f,f,a3.f,f,f,f,f,f,f)
-a4=new A.n(B.Ap,A.bD(A.q("Tilpass \xf8kter",f,f,f,A.C(f,f,B.f,f,f,f,f,f,f,f,f,15,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),a4,p),f)
+a1=p.gb7(a1)
+a1=a1?new A.adB(a,a0,g.d):new A.adC()
+p=A.cC(f,f,f,f,f,f,f,f,f,f,f,a0.f,f,f,f,f,f,f)
+a1=new A.n(B.Ap,A.bD(A.q("Tilpass \xf8kter",f,f,f,A.C(f,f,B.f,f,f,f,f,f,f,f,f,15,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),a1,p),f)
 p=t.t
-p=A.al(A.c([new A.n(B.f9,n,f),m,A.be(A.c([k,l,new A.n(B.iD,i,f),a4],p),B.j,B.l,B.i)],p),B.j,B.bh,B.i)
-a4=p}p=o?B.AA:B.Az
+p=A.al(A.c([new A.n(B.f9,n,f),m,A.be(A.c([k,l,new A.n(B.iD,i,f),a1],p),B.j,B.l,B.i)],p),B.j,B.bh,B.i)
+a1=p}p=o?B.AA:B.Az
 n=A.dx(B.q,1)
 m=A.bH(10)
 l=o?300:250
-k=a3.U
-j=a2.b
+k=a0.U
+j=a.b
 i=J.an(j)
 if(k){k=i.h(j,1).gCf()
 k=A.mv(k,"\\n","\n")}else{k=i.h(j,0).gCf()
 k=A.mv(k,"\\n","\n")}j=t.t
-l=A.al(A.c([a4,new A.n(p,A.x(f,A.d_(A.q(k,f,f,f,f,f,f),f,f),f,f,new A.bj(B.f,f,n,m,f,f,B.C),120,f,f,l),f)],j),B.j,B.l,B.i)
-if(o){if(a3.U)a4=J.d(J.bU(J.a_(a2.b,1)),e)?new A.J(0,20,0,0):new A.J(0,0,0,0)
-else a4=J.d(J.bU(J.a_(a2.b,0)),e)?new A.J(0,20,0,0):new A.J(0,0,0,0)
+l=A.al(A.c([a1,new A.n(p,A.x(f,A.d_(A.q(k,f,f,f,f,f,f),f,f),f,f,new A.bj(B.f,f,n,m,f,f,B.C),120,f,f,l),f)],j),B.j,B.l,B.i)
+if(o){if(a0.U)a1=J.d(J.bU(J.a_(a.b,1)),e)?new A.J(0,20,0,0):new A.J(0,0,0,0)
+else a1=J.d(J.bU(J.a_(a.b,0)),e)?new A.J(0,20,0,0):new A.J(0,0,0,0)
 p=A.bH(5)
-if(a3.U){if(J.d(J.bU(J.a_(a2.b,1)),e))n=d
-else if(J.d(J.bU(J.a_(a2.b,1)),c))n=b
-else n=J.d(J.bU(J.a_(a2.b,1)),a)?a0:a1
-n=A.cB(n,B.a3,f,f,f)}else{if(J.d(J.bU(J.a_(a2.b,0)),e))n=d
-else if(J.d(J.bU(J.a_(a2.b,0)),c))n=b
-else n=J.d(J.bU(J.a_(a2.b,0)),a)?a0:a1
-n=A.cB(n,B.a3,f,f,f)}n=A.pO(new A.n(a4,A.d5(p,n),f),1)
-a4=n}else a4=A.x(f,f,f,f,f,f,f,f,f)
-a4=A.be(A.c([l,a4,A.x(f,f,f,f,f,f,f,f,o?30:0)],j),B.j,B.ay,B.i)
+if(a0.U){if(J.d(J.bU(J.a_(a.b,1)),e))n=d
+else if(J.d(J.bU(J.a_(a.b,1)),c))n="images/5.jpg"
+else n=J.d(J.bU(J.a_(a.b,1)),b)?"images/4.jpg":"images/2.jpg"
+n=A.cB(n,B.a3,f,f,f)}else{if(J.d(J.bU(J.a_(a.b,0)),e))n=d
+else if(J.d(J.bU(J.a_(a.b,0)),c))n="/images/5.jpg"
+else n=J.d(J.bU(J.a_(a.b,0)),b)?"/images/4.jpg":"/images/2.jpg"
+n=A.cB(n,B.a3,f,f,f)}n=A.pO(new A.n(a1,A.d5(p,n),f),1)
+a1=n}else a1=A.x(f,f,f,f,f,f,f,f,f)
+a1=A.be(A.c([l,a1,A.x(f,f,f,f,f,f,f,f,o?30:0)],j),B.j,B.ay,B.i)
 p=A.eq(f,25,f)
-a2=J.ays(J.a_(a2.b,0))?new A.adD(a3):f
-a3=A.cC(f,f,f,f,f,f,f,f,f,f,f,a3.f,f,f,f,f,f,f)
-return A.al(A.c([q,a4,p,A.bD(A.q("Bli med p\xe5 trening",f,f,f,A.C(f,f,B.f,f,f,f,f,f,f,f,f,15,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),a2,a3),new A.n(B.iL,A.q("Tilgang \xe5pnes ca. 10 minutter f\xf8r trening",f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),f)],j),B.j,B.l,B.i)}}else{p.gb7(a4)
-if(p.gP(a4)||a3.ag){A.b2(a3.O)
-if(a3.O)a2=g.e.$1(a3.b4)
-else{a4=A.eq(f,50,f)
+a=J.ays(J.a_(a.b,0))?new A.adD(a0):f
+a0=A.cC(f,f,f,f,f,f,f,f,f,f,f,a0.f,f,f,f,f,f,f)
+return A.al(A.c([q,a1,p,A.bD(A.q("Bli med p\xe5 trening",f,f,f,A.C(f,f,B.f,f,f,f,f,f,f,f,f,15,B.K,B.m,f,f,!0,f,f,f,f,f,f,f,f),f,f),a,a0),new A.n(B.iL,A.q("Tilgang \xe5pnes ca. 10 minutter f\xf8r trening",f,f,f,A.C(f,f,f,f,f,f,f,f,f,f,f,f,B.K,f,f,f,!0,f,f,f,f,f,f,f,f),f,f),f)],j),B.j,B.l,B.i)}}else{p.gb7(a1)
+if(p.gP(a1)||a0.ag){A.b2(a0.O)
+if(a0.O)a=g.e.$1(a0.b4)
+else{a1=A.eq(f,50,f)
 p=g.c
 o=p>730?B.am:B.a4
-o=A.d_(A.al(A.c([a4,A.pO(new A.n(B.iS,A.a_B(new A.adE(a2,a3,p),J.b6(q),o),f),1)],t.t),B.j,B.ay,B.i),f,f)
-a2=o}return a2}}}},
+o=A.d_(A.al(A.c([a1,A.pO(new A.n(B.iS,A.a_B(new A.adE(a,a0,p),J.b6(q),o),f),1)],t.t),B.j,B.ay,B.i),f,f)
+a=o}return a}}}},
 $S:39}
 A.adw.prototype={
 $1(a){return this.a.b6.h(0,a)===!0},
@@ -65987,9 +65987,9 @@ o=A.dx(B.f,3)
 n=A.bH(25)
 q=new A.n(B.ar,A.x(m,A.d_(A.al(A.c([A.q(J.bU(J.a_(l.a,b)),m,m,m,A.C(m,m,B.f,m,m,m,m,m,m,m,m,m,B.K,B.m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.q(B.c.J("Kl. ",J.dM(J.a_(l.a,b))),m,m,m,A.C(m,m,B.f,m,m,m,m,m,m,m,m,m,B.K,B.m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],t.t),B.j,B.fK,B.i),m,m),m,m,new A.bj(s.f,m,o,n,p,new A.k5(B.aY,B.dj,B.bQ,q,m,m),B.C),50,m,m,300),m)}p=r?new A.n(B.f6,A.al(A.c([A.q(J.bU(J.a_(l.a,b)),m,m,m,A.C(m,m,m,m,m,m,m,m,m,m,m,m,B.K,B.m,m,m,!0,m,m,m,m,m,m,m,m),m,m),A.q(B.c.J("Kl. ",J.dM(J.a_(l.a,b))),m,m,m,A.C(m,m,m,m,m,m,m,m,m,m,m,m,B.K,B.m,m,m,!0,m,m,m,m,m,m,m,m),m,m)],t.t),B.j,B.l,B.i),m):A.x(m,m,m,m,m,m,m,m,m)
 if(r){r=A.bH(5)
-if(J.d(J.bU(J.a_(l.a,b)),"St\xf8dighet, puls og styrke"))o="/images/9.jpg"
-else if(J.d(J.bU(J.a_(l.a,b)),"Sterke kn\xe6r"))o="/images/5.jpg"
-else o=J.d(J.bU(J.a_(l.a,b)),"Sterke skuldre")?"/images/4.jpg":"/images/2.jpg"
+if(J.d(J.bU(J.a_(l.a,b)),"St\xf8dighet, puls og styrke"))o="images/9.jpg"
+else if(J.d(J.bU(J.a_(l.a,b)),"Sterke kn\xe6r"))o="images/5.jpg"
+else o=J.d(J.bU(J.a_(l.a,b)),"Sterke skuldre")?"images/4.jpg":"images/2.jpg"
 r=A.d5(r,A.cB(o,B.a3,m,m,J.b6(l.a)>2?150:200))}else r=A.x(m,m,m,m,m,m,m,m,m)
 return new A.n(B.iO,A.di(!1,!0,A.al(A.c([q,p,r],t.t),B.j,B.l,B.i),m,!0,m,m,m,m,m,m,m,m,m,new A.adv(l,s,b),m,m,m),m)},
 $S:66}
@@ -66045,9 +66045,9 @@ p=A.c([new A.dP(0,B.aZ,B.G,B.k,8)],t.Sx)
 o=A.dx(B.f,3)
 n=A.bH(25)
 q=new A.n(B.ar,A.x(m,A.d_(A.q(J.bU(J.a_(l.a,b)),m,m,m,A.C(m,m,B.f,m,m,m,m,m,m,m,m,m,B.K,B.m,m,m,!0,m,m,m,m,m,m,m,m),m,m),m,m),m,m,new A.bj(s.f,m,o,n,p,new A.k5(B.aY,B.dj,B.bQ,q,m,m),B.C),50,m,m,300),m)}if(r){r=A.bH(5)
-if(J.d(J.bU(J.a_(l.a,b)),"St\xf8dighet, puls og styrke"))p="/images/9.jpg"
-else if(J.d(J.bU(J.a_(l.a,b)),"Sterke kn\xe6r"))p="/images/5.jpg"
-else p=J.d(J.bU(J.a_(l.a,b)),"Sterke skuldre")?"/images/4.jpg":"/images/2.jpg"
+if(J.d(J.bU(J.a_(l.a,b)),"St\xf8dighet, puls og styrke"))p="images/9.jpg"
+else if(J.d(J.bU(J.a_(l.a,b)),"Sterke kn\xe6r"))p="images/5.jpg"
+else p=J.d(J.bU(J.a_(l.a,b)),"Sterke skuldre")?"images/4.jpg":"images/2.jpg"
 r=A.d5(r,A.cB(p,B.a3,m,m,J.b6(l.a)>2?150:200))}else r=A.x(m,m,m,m,m,m,m,m,m)
 return new A.n(B.iO,A.di(!1,!0,A.al(A.c([q,r],t.t),B.j,B.l,B.i),m,!0,m,m,m,m,m,m,m,m,m,new A.adt(l,s,b),m,m,m),m)},
 $S:66}
@@ -66077,7 +66077,7 @@ $2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null
 if(b.b!=null){s=f.a
 r=f.b
 q=r>730
-p=q?A.di(!1,!0,A.d5(B.aC,A.cB("/images/iSteady.png",B.bI,e,e,e)),e,!0,e,e,e,e,e,e,e,e,e,new A.acK(s),e,e,e):A.x(e,e,e,e,e,e,e,e,e)
+p=q?A.di(!1,!0,A.d5(B.aC,A.cB("images/iSteady.png",B.bI,e,e,e)),e,!0,e,e,e,e,e,e,e,e,e,new A.acK(s),e,e,e):A.x(e,e,e,e,e,e,e,e,e)
 o=A.q(s.cy,e,e,e,e,e,e)
 n=t.t
 o=A.be(A.c([o,new A.n(B.bG,A.e6(B.AY,s.r2?B.fM:B.cb,e),e)],n),B.j,B.l,B.i)
@@ -66215,7 +66215,7 @@ $2(a,b){var s,r,q,p,o,n,m,l=null
 if(b.a===B.dw)if(b.c!=null)return A.d_(A.q("Error",l,l,l,l,l,l),l,l)
 else{s=b.b
 if(s!=null){r=J.an(s)
-q=A.d5(new A.bG(new A.aH(5,5),new A.aH(0,0),new A.aH(5,5),new A.aH(0,0)),A.cB(B.c.J("/images/",J.a_(r.h(s,3),"picture")),B.a3,l,200,l))
+q=A.d5(new A.bG(new A.aH(5,5),new A.aH(0,0),new A.aH(5,5),new A.aH(0,0)),A.cB(B.c.J("images/",J.a_(r.h(s,3),"picture")),B.a3,l,200,l))
 p=A.q(J.a_(r.h(s,3),"title"),l,l,l,A.C(l,l,l,l,l,l,l,l,l,l,l,24,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)
 o=A.x(l,new A.n(B.iQ,A.q(J.akk(J.a_(r.h(s,3),"contentText"),"\\n","\n"),l,l,l,l,l,l),l),l,new A.aq(100,300,0,1/0),l,150,l,l,l)
 n=A.q(J.akk(J.a_(r.h(s,3),"metainfo"),"\\n","\n"),l,l,l,A.C(l,l,l,l,l,l,l,l,l,l,l,18,l,l,l,l,!0,l,l,l,l,l,l,l,l),B.bk,l)
