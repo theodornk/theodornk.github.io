@@ -73046,7 +73046,7 @@ else return A.ac(A.a([A.q("Tekst her",i,i,i,i,i,i),A.ch(h,B.bd,i,i,i)],g),B.k,B.
 $S:91}
 A.aiB.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=g.b,d=e.fx
-d=d===""?A.v(f,f,f,f,f,f,f,f,f):A.q(B.c.N("\u2b50\ufe0f Du har gjennomf\xf8rt ",d)+" trenings\xf8kter! \u2b50\ufe0f",f,f,f,A.y(f,f,f,f,f,f,f,f,f,f,f,22,f,B.n,f,f,!0,f,f,f,f,f,f,f,f),f,f)
+d=d===""?A.v(f,f,f,f,f,f,f,f,f):A.q(B.c.N(" Du har gjennomf\xf8rt ",d)+" trenings\xf8kter! ",f,f,f,A.y(f,f,f,f,f,f,f,f,f,f,f,22,f,B.n,f,f,!0,f,f,f,f,f,f,f,f),f,f)
 s=A.q("Navn: ",f,f,f,A.y(f,f,f,f,f,f,f,f,f,f,f,f,f,B.n,f,f,!0,f,f,f,f,f,f,f,f),f,f)
 r=e.aT
 q=e.cy
@@ -74175,7 +74175,7 @@ case 2:n=(o==null?$.ak=$.b9():o).bc(0,"[DEFAULT]")
 A.aK(n,$.bS(),!1)
 p=A.e7(new A.b2(n))
 s=5
-return A.V(A.e_(p,p.gbZ().c9(0,"customers")).cj(0,j.d).c9(0,"checkout_sessions").C(0,A.a8(["price",a,"quantity",1,"success_url","http://localhost:51538/#ProductPage","cancel_url","http://localhost:51538/#ProductPage"],t.O,t.z)),$async$$1)
+return A.V(A.e_(p,p.gbZ().c9(0,"customers")).cj(0,j.d).c9(0,"checkout_sessions").C(0,A.a8(["price",a,"quantity",1,"success_url","https://www.isteady.no/#MembershipPage","cancel_url","https://www.isteady.no/#MembershipPage"],t.O,t.z)),$async$$1)
 case 5:m=c
 A.J0(A.ct(0,0,0,0,8),new A.akI(j,m),t.P)
 s=3
@@ -74187,7 +74187,7 @@ o=t.O
 l=t._
 k=t.z
 s=6
-return A.V(A.e_(p,p.gbZ().c9(0,"customers")).cj(0,j.d).c9(0,"checkout_sessions").C(0,A.a8(["line_items",A.a([A.a8(["price","price_1Ke2PgD70ZXPteLWTj2MfndQ","quantity",1],o,l),A.a8(["price","price_1KsxK6D70ZXPteLWEwC1Tr8a","quantity",1],o,l),A.a8(["price",a,"quantity",1],o,k)],t.sG),"success_url","http://localhost:51538/#ProductPage","cancel_url","http://localhost:51538/#ProductPage"],o,k)),$async$$1)
+return A.V(A.e_(p,p.gbZ().c9(0,"customers")).cj(0,j.d).c9(0,"checkout_sessions").C(0,A.a8(["line_items",A.a([A.a8(["price","price_1Ke2PgD70ZXPteLWTj2MfndQ","quantity",1],o,l),A.a8(["price","price_1KsxK6D70ZXPteLWEwC1Tr8a","quantity",1],o,l),A.a8(["price",a,"quantity",1],o,k)],t.sG),"success_url","https://www.isteady.no/#MembershipPage","cancel_url","https://www.isteady.no/#MembershipPage"],o,k)),$async$$1)
 case 6:m=c
 A.J0(A.ct(0,0,0,0,8),new A.akJ(m),t.P)
 case 3:return A.O(null,r)}})
